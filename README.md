@@ -1,2 +1,2 @@
-# multiplicationtable - By LexusCreations
+# MultiplicationTable - By LexusCreations
 Learn Unlimited Multiplication Table - Simple JavaScript App
