@@ -1,2 +1,2 @@
-# multiplicationtable
-Learn Unlimited Multiplication Table Smile JavaScript App
+# multiplicationtable - By LexusCreations
+Learn Unlimited Multiplication Table - Simple JavaScript App
